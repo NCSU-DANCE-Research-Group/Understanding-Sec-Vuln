@@ -1,4 +1,4 @@
-# understanding-security-vulnerabilities  
+# Understanding Security Vulnerabilities  
 This repository contains documentation of our IC2E 22 paper: "Understanding Software Security Vulnerabilities in Cloud Server Systems". 
   
   
